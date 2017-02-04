@@ -99,3 +99,6 @@ Feel free to also ask questions in the Slack channel - we'll be monitoring it th
 
 ### You told her the answer but not me!
 We'll add any questions we're asked to this FAQ throughout the day
+
+### Can we work in teams?
+Sure - just remember that if you win you'll have to split the £100 of vouchers between you! 
