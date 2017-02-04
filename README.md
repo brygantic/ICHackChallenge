@@ -34,7 +34,7 @@ remember that if you're tied for first place, the competitor with the fewest tra
 Timing
 ------
 ### Starting
-If you're reading this, then you can start! You'll find examples of some stock prices under `prices/`.
+If you're reading this, then you can start! You'll find examples of some stock prices under `sample-prices/`.
 Don't spend a crazy amount of time on this though - your actual hacks should take priority!
 
 ### 23:30
